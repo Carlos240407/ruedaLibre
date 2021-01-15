@@ -2389,6 +2389,9 @@ div#testimonials h4.m-title {
 }
 
 @media(max-width: 1024px) {
+    .bg-right-nut img{
+        width: 280px;
+    }
     .text-form-footer h3 {
         font-size: 25px;
         letter-spacing: 1px;
@@ -2682,7 +2685,11 @@ div#testimonials h4.m-title {
 	#PPminicarts {
 		left: 35% !important;
 	}
-	/* //cart */
+    /* //cart */
+    .bg-right-nut img{
+        width: 250px;
+        max-width: 50vw;
+    }
 }
 
 @media(max-width: 640px) {
@@ -2907,6 +2914,9 @@ div#testimonials h4.m-title {
     label.anim {
         font-size: 14px;
     }
+    .bg-right-nut img{
+        width: 180px;
+    }
 }
 
 @media(max-width: 384px) {
@@ -3034,6 +3044,10 @@ div#testimonials h4.m-title {
     }
     .agile_inner_drop_nav_info {
         min-width: 290px;
+    }
+    .bg-right-nut img{
+        width: 180px;
+        max-width: 50vw;
     }
 }
 
@@ -3193,6 +3207,10 @@ div#testimonials h4.m-title {
     }
     .occasion-cart .snipcart-details {
         width: 45%;
+    }
+    .bg-right-nut img{
+        width: 100px;
+        max-width: 30vw;
     }
 }
 
